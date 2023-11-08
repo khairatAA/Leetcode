@@ -4,4 +4,4 @@
   </a>
 </p>
 <h1 align="center">Leetcode Solutions</h1>
-This repository contains solution to leetcode problems I solve.
+This repository contains solutions to leetcode problems I solve.
